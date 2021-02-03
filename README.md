@@ -1,4 +1,4 @@
 # Realtime-chat
  Built using Node, Express $ Socket.io
  
- Further features to be added later
+Ongoing project, more features to be added soon. 
